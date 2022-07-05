@@ -1,0 +1,115 @@
+{
+  "properties": 
+  [
+    {
+      "id": 1,
+      "title": "Hello",
+      "product": "Hotel",
+      "location": "Los Angeles",
+      "size": "1000 m2",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parking": 2,
+      "price": 1500000
+    },
+    {
+      "id": 2,
+      "title": "Hello",
+      "product": "Hotel",
+      "location": "Los Angeles",
+      "size": "1000 m2",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parking": 2,
+      "price": 1500000
+    },
+    {
+      "id": 3,
+      "title": "Hello",
+      "product": "Hotel",
+      "location": "Los Angeles",
+      "size": "1000 m2",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parking": 2,
+      "price": 1500000
+    },
+    {
+      "id": 4,
+      "title": "Hello",
+      "product": "Hotel",
+      "location": "Los Angeles",
+      "size": "1000 m2",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parking": 2,
+      "price": 1500000
+    },
+    {
+      "id": 5,
+      "title": "Hello",
+      "product": "Hotel",
+      "location": "Los Angeles",
+      "size": "1000 m2",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parking": 2,
+      "price": 1500000
+    },
+    {
+      "id": 6,
+      "title": "Hello",
+      "product": "Hotel",
+      "location": "Los Angeles",
+      "size": "1000 m2",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parking": 2,
+      "price": 1500000
+    },
+    {
+      "id": 7,
+      "title": "Hello",
+      "product": "Hotel",
+      "location": "Los Angeles",
+      "size": "1000 m2",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parking": 2,
+      "price": 1500000
+    },
+    {
+      "id": 8,
+      "title": "Hello",
+      "product": "Hotel",
+      "location": "Los Angeles",
+      "size": "1000 m2",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parking": 2,
+      "price": 1500000
+    },
+    {
+      "id": 9,
+      "title": "Hello",
+      "product": "Hotel",
+      "location": "Los Angeles",
+      "size": "1000 m2",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parking": 2,
+      "price": 1500000
+    },
+    {
+      "id": 10,
+      "title": "Hello",
+      "product": "Hotel",
+      "location": "Los Angeles",
+      "size": "1000 m2",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parking": 2,
+      "price": 1500000
+    }
+  ]
+}
